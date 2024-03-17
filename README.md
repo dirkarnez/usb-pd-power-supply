@@ -9,6 +9,7 @@ usb-pd-power-supply
 - USB PD3.0 (PPS Programmable Supply) is needed
 
 ### MCUs
+- TPS25750
 - Cypress EZ-PD
 - STM32G0
 - FUSB302B
