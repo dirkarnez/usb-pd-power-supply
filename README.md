@@ -2,7 +2,11 @@ usb-pd-power-supply
 ===================
 ### Libraries
 - [manuelbl/usb-pd-arduino: USB Power Delivery for Arduino](https://github.com/manuelbl/usb-pd-arduino)
+  - https://github.com/manuelbl/usb-pd-arduino/blob/main/examples/TriggerBoardAdvanced/TriggerBoardAdvanced.ino
 - [ReclaimerLabs/USB_PD: USB Power Delivery library](https://github.com/ReclaimerLabs/USB_PD)
+
+### Notes
+- USB PD3.0 (PPS Programmable Supply) is needed
 
 ### MCUs
 - Cypress EZ-PD
@@ -14,6 +18,7 @@ usb-pd-power-supply
 - [Chromium Embedded Controller (EC) Development](https://www.chromium.org/chromium-os/ec-development/)
 - [Compliance Tools | USB-IF](https://www.usb.org/compliancetools)
 - [ReclaimerLabs/USB-C-Explorer: Dev board for USB-C and Power Delivery](https://github.com/ReclaimerLabs/USB-C-Explorer)
+
 ### Reference
 - [Using USB Power Delivery for good, not evil! #arduino #raspberrypi - YouTube](https://www.youtube.com/watch?v=PL94V6BK9jM)
 - [Powering your projects using USB-C Power Delivery - YouTube](https://www.youtube.com/watch?v=iumAnPiQSj8)
