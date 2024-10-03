@@ -15,12 +15,17 @@ usb-pd-power-supply
 - ~FUSB302B~
 - IP2721??
 
+
 ### Tools
 - [Chromium Embedded Controller (EC) Development](https://www.chromium.org/chromium-os/ec-development/)
 - [Compliance Tools | USB-IF](https://www.usb.org/compliancetools)
 - [ReclaimerLabs/USB-C-Explorer: Dev board for USB-C and Power Delivery](https://github.com/ReclaimerLabs/USB-C-Explorer)
 
 ### Reference
+- [All About USB-C: Talking Low-Level PD | Hackaday](https://hackaday.com/2023/02/14/all-about-usb-c-talking-low-level-pd/)
+- [drivers/usb/fusb302/core/PD_Types.h - kernel/msm - Git at Google](https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2/drivers/usb/fusb302/core/PD_Types.h)
+- [tamarin-c/FUSB302.c at main · stacksmashing/tamarin-c](https://github.com/stacksmashing/tamarin-c/blob/main/FUSB302.c)
+- [graycatlabs/usb-c-arduino: USB-C Power Delivery on Arduino](https://github.com/graycatlabs/usb-c-arduino/tree/master)
 - [Using USB Power Delivery for good, not evil! #arduino #raspberrypi - YouTube](https://www.youtube.com/watch?v=PL94V6BK9jM)
 - [Powering your projects using USB-C Power Delivery - YouTube](https://www.youtube.com/watch?v=iumAnPiQSj8)
 - [USB Power Delivery: USB PD Safety Implementation | Renesas](https://www.renesas.com/us/en/support/engineer-school/usb-power-delivery-03-emarker-c-auth)
