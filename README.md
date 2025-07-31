@@ -15,6 +15,10 @@ usb-pd-power-supply
 - ~FUSB302B~
 - IP2721??
 
+### PPS
+- XY-WPDT
+  - [**・「XY-WPDT」ＰＤ充電器用トリガーデバイスを入手してみた : Skyzoo ヨッシーの備忘録**](https://gijin77.blog.jp/archives/33475591.html)
+
 
 ### Tools
 - [Chromium Embedded Controller (EC) Development](https://www.chromium.org/chromium-os/ec-development/)
