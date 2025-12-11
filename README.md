@@ -7,6 +7,7 @@ usb-pd-power-supply
 
 ### Notes
 - USB PD3.0 (PPS Programmable Supply) is needed
+- Actually, Controller IC controls the A Pins /B Pins to tell the PPS-adapter to output different voltages to VCC Pins
 
 ### MCUs
 - **TPS25750**
