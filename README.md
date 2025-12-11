@@ -9,6 +9,10 @@ usb-pd-power-supply
 - USB PD3.0 (PPS Programmable Supply) is needed
 - Actually, Controller IC controls the A Pins /B Pins to tell the PPS-adapter to output different voltages to VCC Pins
 
+### USB Type-C Official Specification
+- [USB Type-C® Cable and Connector Specification Release 2.4 | USB-IF](https://usb.org/document-library/usb-type-cr-cable-and-connector-specification-release-24)
+  - https://www.usb.org/sites/default/files/USB%20Type-C%202.4%20Release%20202410.zip
+  
 ### MCUs
 - **TPS25750**
 - **Cypress EZ-PD**
@@ -27,6 +31,18 @@ usb-pd-power-supply
 - [ReclaimerLabs/USB-C-Explorer: Dev board for USB-C and Power Delivery](https://github.com/ReclaimerLabs/USB-C-Explorer)
 
 ### Reference
+- [USB PD Protocol Analyzer for 5 USD · manuelbl/usb-pd-arduino Wiki](https://github.com/manuelbl/usb-pd-arduino/wiki/USB-PD-Protocol-Analyzer-for-5-USD)
+    - [usb-pd-arduino/examples/TriggerBoardAdvanced/TriggerBoardAdvanced.ino at main · manuelbl/usb-pd-arduino](https://github.com/manuelbl/usb-pd-arduino/blob/main/examples/TriggerBoardAdvanced/TriggerBoardAdvanced.ino)
+    - [usb-pd-arduino/examples/ListCapabilities/ListCapabilities.ino at main · manuelbl/usb-pd-arduino](https://github.com/manuelbl/usb-pd-arduino/blob/main/examples/ListCapabilities/ListCapabilities.ino)
+    - [usb-pd-arduino/test/VoltageChange/src/main.cpp at main · manuelbl/usb-pd-arduino](https://github.com/manuelbl/usb-pd-arduino/blob/main/test/VoltageChange/src/main.cpp)
+    - [USB Power Delivery for Arduino | Hackaday.io](https://hackaday.io/project/190815-usb-power-delivery-for-arduino)
+    - [Charging SEVs — A Modest Proposal called AOPD - Jan Wildeboer’s Blog](https://jan.wildeboer.net/2024/06/Charging-SEVs-A-Modest-Proposal-AODP/)
+    - [Proto Board for Sink Mode · manuelbl/usb-pd-arduino Wiki](https://github.com/manuelbl/usb-pd-arduino/wiki/Proto-Board-for-Sink-Mode)
+- [Search results for "USBCPD_Application_Customization_Tool" · Gallery](https://dev.ti.com/gallery/info/USBPD/USBCPD_Application_Customization_Tool/)
+- [eeucalyptus/ch32v003-usbpd: Use the ch32v003 as a usb pd controller](https://github.com/eeucalyptus/ch32v003-usbpd)
+    - [eeucalyptus - USB PD coding](https://eeucalyptus.net/2023-12-06-usb-pd-1.html)
+    - [eeucalyptus - USB PD on the CH32V003](https://eeucalyptus.net/2024-05-13-usb-pd-2.html)
+    - [cnlohr/ch32fun: Open source minimal stack for the ch32 line of WCH processors, including the ch32v003, a 10¢ 48 MHz RISC-V Microcontroller - as well as many other chips within the ch32v/x line.](https://github.com/cnlohr/ch32fun/)
 - [All About USB-C: Talking Low-Level PD | Hackaday](https://hackaday.com/2023/02/14/all-about-usb-c-talking-low-level-pd/)
 - [drivers/usb/fusb302/core/PD_Types.h - kernel/msm - Git at Google](https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2/drivers/usb/fusb302/core/PD_Types.h)
 - [tamarin-c/FUSB302.c at main · stacksmashing/tamarin-c](https://github.com/stacksmashing/tamarin-c/blob/main/FUSB302.c)
