@@ -4,6 +4,7 @@ usb-pd-power-supply
 - [manuelbl/usb-pd-arduino: USB Power Delivery for Arduino](https://github.com/manuelbl/usb-pd-arduino)
   - https://github.com/manuelbl/usb-pd-arduino/blob/main/examples/TriggerBoardAdvanced/TriggerBoardAdvanced.ino
 - [ReclaimerLabs/USB_PD: USB Power Delivery library](https://github.com/ReclaimerLabs/USB_PD)
+- https://github.com/Ralim/usb-pd
 
 ### Notes
 - USB PD3.0 (PPS Programmable Supply) is needed
